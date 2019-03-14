@@ -1,0 +1,15 @@
+C:\Users\fmuri\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csprojAssemblyReference.cache
+C:\Users\fmuri\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\fmuri\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\fmuri\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\fmuri\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\fmuri\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\Nancy.dll
+C:\Users\fmuri\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\Nancy.Hosting.Self.dll
+C:\Users\fmuri\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\Nancy.xml
+C:\Users\fmuri\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\Nancy.Hosting.Self.xml
+C:\Users\fmuri\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CopyComplete
+C:\Users\fmuri\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\fmuri\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+C:\Users\fmuri\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\fmuri\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\fmuri\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\Newtonsoft.Json.xml
